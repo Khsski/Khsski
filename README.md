@@ -1,4 +1,4 @@
-<h1 align="center">XVIII</h1>
+<h1 align="center">Kupper</h1>
 
 <p align="center">
   <img src="https://i.imgur.com/XXXXXXXX.png" width="200px" alt="Profile Banner">
@@ -6,23 +6,23 @@
 
 ---
 
-### 🎧 Music Is My #1
+###  Music Is My #1
+- [scary.sh](https://open.spotify.com/track/6RKeESxpM58GCfR5eRdfzY?si=0fd2100416614c69)
 
 ---
 
-### 🔗 Links
-- [scary.sh](https://your-link-here.com)
-- [Main Site](https://your-link-here.com)
+###  Links
+- [scary.sh](https://khsski.github.io/scare.sh/)
 
 ---
 
-### 💻 About Me
+###  About Me
 - **i sleep a lot**
 - i like **HTML**
 
 ---
 
-### 🛠 Languages
+###  Languages
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
