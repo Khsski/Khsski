@@ -6,11 +6,6 @@
 
 ---
 
-###  Music Is My #1
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=abcd1234&cover_image=true&theme=novatorem&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=abcd1234&redirect=true)
-
----
-
 ###  Links
 - [scary.sh](https://khsski.github.io/scare.sh/)
 
