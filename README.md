@@ -7,7 +7,7 @@
 ---
 
 ###  Music Is My #1
-- [scary.sh](https://open.spotify.com/track/6RKeESxpM58GCfR5eRdfzY?si=0fd2100416614c69)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=abcd1234&cover_image=true&theme=novatorem&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=abcd1234&redirect=true)
 
 ---
 
