@@ -1,13 +1,14 @@
 <h1 align="center">Kupper</h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/XXXXXXXX.png" width="200px" alt="Profile Banner">
 </p>
 
 ---
 
 ###  Links
 - [scary.sh](https://khsski.github.io/scare.sh/)
+- [vrc](https://vrchat.com/home/user/usr_ab249cf7-5756-4c1b-a0c4-b1e6454c28d1)
+- [guns.lol](https://guns.lol/atomicfemboy)
 
 ---
 
