@@ -3,7 +3,6 @@
 <p align="center">
 </p>
 
----
 
 ###  Links
 - [vrc](https://vrchat.com/home/user/usr_ab249cf7-5756-4c1b-a0c4-b1e6454c28d1)
