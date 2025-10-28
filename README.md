@@ -1,7 +1,6 @@
 <h1 align="center">Umm ig im Cawe</h1>
 
-<p align="center">
-</p>
+<p align="center"> <img src="https://i.pinimg.com/736x/d8/4c/8a/d84c8aa87a93ff519fd6d8e626c51c63.jpg" /> </p>
 
 
 ###  Links
@@ -13,7 +12,6 @@
 ###  About Me
 - **i sleep a lot**
 - i like **HTML**
-- <img src="https://i.pinimg.com/736x/d8/4c/8a/d84c8aa87a93ff519fd6d8e626c51c63.jpg" /> 
 
 ---
 
