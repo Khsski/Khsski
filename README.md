@@ -1,6 +1,6 @@
 <h1 align="center">Umm ig im Cawe</h1>
 
-<p align="center"> <img src="file:///C:/Users/katye/Downloads/download%20(52).jpeg.png" /> </p>
+<p align="center"> <img src="https://i.pinimg.com/736x/ed/bf/3f/edbf3fbcc1d1324fb016cebd940aeff9.jpg" /> </p>
 
 
 ###  Links
