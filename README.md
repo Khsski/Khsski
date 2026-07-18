@@ -4,14 +4,17 @@
 
 
 ###  Links
-- [vrc](https://vrchat.com/home/user/usr_2ad9728d-0d45-4934-a8dd-897cd145d324)
-- [guns.lol](https://guns.lol/tuppers)
+- [vrc](https://vrchat.com/home/user/usr_b2fd037a-228f-4d23-8ee1-935df384e0dd)
+- [guns.lol](https://guns.lol/33.33)
 
 ---
 
 ###  About Me
-- **i sleep a lot**
-- i like **HTML**
+- **I sleep a lot**
+- I dont really do anything.
+- 𓃠
+- I dislike social interaction.
+- Game development in college.
 
 ---
 
