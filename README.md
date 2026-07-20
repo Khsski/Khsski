@@ -6,3 +6,10 @@
 <h5 align="center">I dont really do anything.</h5>
 <h5 align="center">I dislike social interaction.</h5>
 <h5 align="center">Game development in college.</h5>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</p>
